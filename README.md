@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/greggCode13" target="blank">
 Gregg</a></h1>
-<h3 align="center">A passionate Programmer from Philippines</h3>
+<h3 align="center">A BSIT Student from the Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jgfelicisimo13&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
