@@ -10,11 +10,9 @@ Gregg</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 📚 I'm currently studying at National University MOA
+- 📚 I'm currently studying BSIT
 
 - 🤝 I’m available for freelancing.
-
-- 💬 Ask me about **Java, C#, Python, & Nodejs**
 
 - 📫 How to reach me **jgv.felicisimo@gmail.com**
 
