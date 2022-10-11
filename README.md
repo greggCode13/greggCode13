@@ -1,7 +1,12 @@
 <h1 align="center">Hi, I'm Gregg <img height="40" src="https://cdn3.emoji.gg/emojis/8962-bongocatbmo.gif"></h1>
 <h3 align="center">A passionate programmer from the Philippines</h3>
 
+- 💻 I am a self taught Programmer
+- 🔭 Working on Deep Learning & Machine Learning
+- 🌟 Main languages: Java, Python
 - 🌱 I’m currently learning **C**
+- 🤝 I’m available for freelancing.
+- 🌱 I’m currently Working on Web app and Mobile App
 
 <h3 align="center">Languages and Tools:</h3>
 
