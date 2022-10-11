@@ -27,13 +27,13 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com/en/" target="_blank"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/java-22-225997.png" alt="git" width="50" height="40"/> 
   </a>
   <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" alt="git" width="50" height="40"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="git" width="40" height="40"/> 
+    <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/visual-studio-code-logo.png" alt="git" width="50" height="40"/> 
   </a>
 </p>
 
