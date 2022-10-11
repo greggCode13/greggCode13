@@ -5,8 +5,7 @@
 - 🔭 Working on Deep Learning & Machine Learning
 - 🌟 Main languages: Java, Python
 - 🌱 I’m currently learning **C**
-- 🤝 I’m available for freelancing.
-- 🌱 I’m currently Working on Web app and Mobile App
+- 🤝 I’m available for freelancing
 
 <h3 align="center">Languages and Tools:</h3>
 
