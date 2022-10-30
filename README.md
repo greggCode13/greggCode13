@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gregg <img height="40" src="https://cdn3.emoji.gg/emojis/8962-bongocatbmo.gif"></h1>
-<h3 align="center">A passionate programmer from the Philippines</h3>
+<h3 align="center">A passionate programmer</h3>
 
 - 💻 I am a self taught Programmer
 - 🔭 Working on Deep Learning & Machine Learning
